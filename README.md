@@ -5,4 +5,4 @@ Repositorio para el curso de **HTML CSS y JS**
 - Alumno: José Javier Díaz González
 
 ### Listado del curso:
-- #### [Curso](). HTML
+- #### [HTML]()
